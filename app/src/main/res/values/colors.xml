@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myprimarycolor">#F8D7D2</color>
+    <color name="teal_200">#FF8A8A</color>
+    <color name="teal_700">#F68FB2</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#5D5D5D</color>
+    <color name="bg">#FFD6D6</color>
+    <color name="colorPrimary">#FF8A8A</color>
+    <color name="colorPrimaryDark">#FF8A8A</color>
+    <color name="colorAccent">#FF8A8A</color>
+    <color name="colorAccentDark">#FF8A8A</color>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043976807518",
+    "project_id": "nails-bar-app",
+    "storage_bucket": "nails-bar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043976807518:android:4bd4cdeeeb27cc4a4bc0cf",
+        "android_client_info": {
+          "package_name": "com.app.nailappointmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043976807518-k31kio40cm47s4ae8n2n1rtd12bm9dkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwY0binH6vSNSHb27Q4SI2axC8tt6vpPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043976807518-k31kio40cm47s4ae8n2n1rtd12bm9dkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
